@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="foodemo2",
-    version="0.0.1",
+    version="0.0.2",
     description="Foo demo project the II",
     long_description=readme(),
     long_description_content_type="text/markdown",
